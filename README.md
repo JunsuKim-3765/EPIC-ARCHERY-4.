@@ -1,2 +1,1 @@
-# EPIC-ARCHERY-4.
-EPIC ARCHERY 4
+# Project Template 26
